@@ -1,0 +1,13 @@
+# Ignore configuration files
+.config/
+
+# Ignore packager files
+package.json
+package-lock.json
+
+# Ignore replit files
+.replit
+replit.nix
+
+# Ignore replit's universal package manager (UPM) files
+.upm/
