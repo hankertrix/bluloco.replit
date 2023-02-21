@@ -1,0 +1,36 @@
+{
+  "Global Theme": {
+    "Background": "#282c34",
+    "Outline": "#5a6d8c",
+    "Foreground": "#abb2bf",
+    "Primary": "#2b72c9",
+    "Positive": "#177f55",
+    "Negative": "#ff2e3f"
+  },
+
+  "Code Syntax Theme": {
+    "Variable Names": "#abb2bf",
+    "Variable Definitions": "#abb2bf",
+    "Function References": "#3fc56b",
+    "Function Definitions": "#3fc56b",
+    "Keywords": "#10b1fe",
+    "Property Names": "#ce9887",
+    "Property Definitions": "#3fc56b",
+    "Function Properties": "#3fc56b",
+    "Tag Names": "#3691ff",
+    "Type Names": "#ff6682",
+    "Class Names": "#ff6682",
+    "Attribute Names": "#ff936a",
+    "Atomic Keywords": "#9f7efe",
+    "Comments": "#636d83",
+    "Strings": "#f9c859",
+    "Numbers": "#ff78f8",
+    "Booleans": "#10b3fe",
+    "Regular Expressions": "#9f7efe",
+    "Operators": "#7a82da",
+    "Square Brackets": "#7a82da",
+    "Angle Brackets": "#7a82da",
+    "Document Meta / Processing Instruction": "#3691ff",
+    "Escaped Unicode Strings": "#ff956b"
+  }
+}
