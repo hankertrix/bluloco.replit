@@ -30,6 +30,7 @@
     "Operators": "#7a82da",
     "Square Brackets": "#7a82da",
     "Angle Brackets": "#7a82da",
+    "Brace / Paren": "#7a82da",
     "Document Meta / Processing Instruction": "#3691ff",
     "Escaped Unicode Strings": "#ff956b"
   }

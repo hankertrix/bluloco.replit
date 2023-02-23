@@ -10,7 +10,7 @@
 
   "Code Syntax Theme": {
     "Variable Names": "#383a42",
-    "Variable Definitions": "#40b8c5",
+    "Variable Definitions": "#383a42",
     "Function References": "#23974a",
     "Function Definitions": "#23974a",
     "Keywords": "#0098dd",
@@ -30,6 +30,7 @@
     "Operators": "#7a82da",
     "Square Brackets": "#7a82da",
     "Angle Brackets": "#7a82da",
+    "Brace / Paren": "#7a82da",
     "Document Meta / Processing Instruction": "#275fe4",
     "Escaped Unicode Strings": "#de631b"
   }
